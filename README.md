@@ -1,0 +1,25 @@
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+# cloned ! alx_travel_app_0x00
+Django backend for a travel booking platform with Listings, Bookings, and Reviews. Provides APIs via DRF and includes a seeder to populate sample data.
+
+# after stressfull reload of dir
+made on integration payment
