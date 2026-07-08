@@ -16,12 +16,12 @@
 - Integrate automatic API documentation with Swagger.
 - Deploy well-structured and tested API endpoints that follow REST best practices.
 - Confidently test API functionalities for both successful and error scenarios.
-Key Concepts
-# CRUD Operations: Create, Read, Update, and Delete functionality for API resources.
-# ModelViewSet: A DRF class that provides a complete set of CRUD actions without extra boilerplate.
-# Routers in DRF: Automatically map ViewSets to URLs in a RESTful format.
-# Swagger API Documentation: Automatically generated interactive API docs.
-# API Testing: Using tools like Postman to validate API functionality.
+# Key Concepts
+- CRUD Operations: Create, Read, Update, and Delete functionality for API resources.
+- ModelViewSet: A DRF class that provides a complete set of CRUD actions without extra boilerplate.
+- Routers in DRF: Automatically map ViewSets to URLs in a RESTful format.
+- Swagger API Documentation: Automatically generated interactive API docs.
+- API Testing: Using tools like Postman to validate API functionality.
 # Tools and Libraries
 - Django – High-level Python web framework.
 - Django REST Framework (DRF) – Toolkit for building Web APIs.
