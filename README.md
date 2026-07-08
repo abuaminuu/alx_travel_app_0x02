@@ -2,16 +2,15 @@
 - Overview
 - In this task, you will enhance the alx_travel_app project by implementing API views to manage listings and bookings. You’ll create fully functional CRUD (Create, Read, Update, Delete) endpoints using Django REST Framework (DRF) and document them with Swagger for ease of access and testing. The focus is on following RESTful API design principles while ensuring endpoints are properly tested for reliability.
 
-- Learning Objectives
-By the end of this task, learners should be able to:
+# - Learning Objectives
 
-Implement ViewSets in Django REST Framework to handle multiple model operations efficiently.
-Configure API routes using DRF’s routers.
-Apply RESTful conventions in API endpoint design.
-Document APIs with Swagger for clear and interactive API exploration.
-Test API endpoints with tools like Postman to verify correctness.
-Learning Outcomes
-Learners will be able to:
+- Implement ViewSets in Django REST Framework to handle multiple model operations efficiently.
+- Configure API routes using DRF’s routers.
+- Apply RESTful conventions in API endpoint design.
+- Document APIs with Swagger for clear and interactive API exploration.
+- Test API endpoints with tools like Postman to verify correctness.
+- Learning Outcomes
+- Learners will be able to:
 
 Create and manage CRUD endpoints for multiple models in Django REST Framework.
 Integrate automatic API documentation with Swagger.
